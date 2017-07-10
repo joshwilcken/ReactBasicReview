@@ -1,0 +1,12 @@
+.navBar {
+    width: 100vw;
+    height: 80px;
+    background: gray;
+
+}
+.navBar div {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 400px;
+}
